@@ -1,0 +1,10 @@
+Local validation: 2026-09-21
+Python 3.12; Flask 3.1.3
+6 unittest cases passed.
+Actual attached Limerick: upload/registration succeeded, profile showed 32 words including title, downloaded bytes matched original.
+EC2/Apache deployment and public URL: not yet tested.
+
+Deployment evidence supplied by the project owner:
+September 21-22, 2026: EC2 profile, re-login, public DNS and SQLite record screenshots.
+September 26, 2026: installed package versions, Apache Syntax OK, WSGI configuration and stored file metadata screenshots.
+These records are historical evidence, not a current uptime check.
